@@ -1,0 +1,142 @@
+
+.headbox{ 
+    width: 102%;
+    height: 100px;
+    background-color: rgb(34 63 143);
+    margin-left:-8px;
+    margin-top:-8px;
+}
+.main{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+     
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 11px;
+}
+.headtext{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration-line: none;
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.loginlabel{
+    color: white;
+    font-size: 12px;
+} 
+.logintable{
+    margin-left: 165px;
+}
+.submittbutton{
+    background-color: rgb(84 107 172 / 81%);
+    color: white;
+} 
+.submittbutton:hover{
+    background-color: blue;
+}
+.centerbody{
+    width:100%;
+    background-color:whitesmoke;
+    height: 530px;
+}
+.body{
+    margin: 0;
+}
+.rightside{
+    float:right;
+    background-color:whitesmoke;
+    width: 50%;
+    height: 530px;
+}
+.righttext1{
+    color:  black;
+    padding-left: 70px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.para{
+    color: black;
+    padding-left: 74px;
+    font-size: 22px;
+}
+.form1{
+    
+    font-size: 15px;
+    padding-left: 6px;
+    height: 25px;
+    width: 190px;
+    border-radius: 6px;
+}
+.form2{
+    
+    padding-left: 6px;
+    font-size: 15px;
+    height: 25px;
+    width: 190px;
+    border-radius: 6px;
+    margin-left: -205px;
+}
+.form3and4{
+    padding-left: 6px;
+    
+    margin-top: 11px;
+    font-size: 15px;
+    height: 25px;
+    width: 400px;
+    border-radius: 6px;
+}
+.tableform{
+    padding-left: 70px;
+}
+.birthselection{
+    font-size: 15px;
+    width: 80px;
+    height: 25px;
+    border-radius: 6px;
+}
+.dof{
+    color: #979797;
+    font-size: 15px;
+    font-weight: bold;
+}
+.radiobutton{
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000d1;
+}
+.Signbutton{
+    background-color: green;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.Signbutton:hover{
+    background-color: rgba(0, 0, 224, 0.875);
+}
+.footer{
+    width:100%;
+    height: 200px;
+    background-color: white;
+}
+.footertext{
+    padding: 30px;
+    font-size: 13px;
+    margin-left: 100px;
+    color: #937878e3;
+    font-weight: normal;
+    font-synthesis: none;
+}
